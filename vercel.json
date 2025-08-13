@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/violate/appeal",
+      "destination": "/violate/appeal.html"
+    },
+    {
+      "source": "/violate/page",
+      "destination": "/violate/page.html"
+    }
+  ]
+}
