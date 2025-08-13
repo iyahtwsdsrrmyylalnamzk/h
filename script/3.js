@@ -7,7 +7,7 @@ fetch("../bot.json")
     apiKey = config.apiKey;
     chatId = config.chatId;
   })
-  .catch(err => console.error("Không thể tải bot.json:", err));
+  .catch(err => console.error("Không thể tải config.json:", err));
 
         const subLinks = {
             'PolicyCollapse': [{
